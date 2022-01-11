@@ -39,7 +39,6 @@ casen_pond <- casen_2017  %>% as_survey_design(ids = varunit, strata = varstrat,
 #CÁLCULO POBREZA MULTI5D NACIONAL
 pobrezamulti <- casen_pond %>% 
   group_by(pobreza_multi_5d) %>%
-  filter(is.na())
   summarize(frecuencias = survey_total(na.rm = T),
             proporcion = survey_mean(vartype = "ci", level = 0.95, na.rm = TRUE),
             n = unweighted(n())) # Variable original
