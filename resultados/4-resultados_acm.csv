@@ -1,0 +1,21 @@
+"";"name";"mass";" qlt";" inr";" k=1";"cor";"ctr";" k=2";"cor";"ctr"
+"1";"cambios:Radicales";73;537;38;-4;2;0;-65;535;85
+"2";"cambios:Graduales";88;536;32;-18;66;1;49;471;59
+"3";"cambios:Sin";5;868;68;312;834;25;62;33;6
+"4";"conflictos:Mostrar";71;871;41;-158;866;85;-11;4;2
+"5";"conflictos:Evitar";92;934;31;116;929;59;8;4;1
+"6";"manifestaciones:Positivas";54;843;51;-227;827;135;-32;17;16
+"7";"manifestaciones:Negativas";64;755;43;99;472;30;76;282;104
+"8";"manifestaciones:Neutras";46;864;50;126;672;35;-68;192;58
+"9";"involucramiento:Retraídos";36;266;53;-14;22;0;-45;244;20
+"10";"involucramiento:Observadores";45;763;55;209;714;94;-55;49;37
+"11";"involucramiento:Ritualistas";29;689;61;-260;563;94;123;127;122
+"12";"involucramiento:Comprometidos/Involucrados";39;405;53;65;324;8;32;81;11
+"13";"involucramiento:Colectivistas";20;771;61;-189;744;34;-36;27;7
+"14";"edad:Jóvenes";37;734;55;-145;527;37;-90;207;82
+"15";"edad:Adultos";74;298;38;-32;195;4;-23;103;11
+"16";"edad:Adultos mayores";58;693;48;133;491;50;85;202;117
+"17";"NSE:ABC1";37;732;60;-269;621;129;114;111;133
+"18";"NSE:C2";37;541;53;-88;469;14;-34;72;12
+"19";"NSE:C3";39;649;53;-15;14;0;-102;635;112
+"20";"NSE:D y E";56;739;55;250;736;167;17;4;5
