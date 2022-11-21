@@ -31,7 +31,7 @@ casen_santiago <- select(casen_santiago, comuna, cuidado_enfermos = r7a,
 
 # ---- Guardar base en formato RDS (*)
 
-saveRDS(casen_santiago, file = "datos/casen_santiago.rds")
+saveRDS(casen_santiago, file = "datos/5-casen_santiago.rds")
 
 # ---- Cargar base de Casen recortada
 casen_santiago <- readRDS("datos/5-casen-santiago.rds")
